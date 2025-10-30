@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { MessageCircle } from 'lucide-react';
+import Image from 'next/image';
 
 export default function Hero() {
   return (
@@ -22,9 +23,15 @@ export default function Hero() {
             initial={{ scale: 0, rotate: -180 }}
             animate={{ scale: 1, rotate: 0 }}
             transition={{ type: 'spring', stiffness: 100 }}
-            className="text-8xl mb-6"
+            className="mb-6 flex justify-center"
           >
-            🥟
+            <Image
+              src="/logo/logo.png"
+              alt="Entequeñate logo"
+              width={280}
+              height={280}
+              priority
+            />
           </motion.div>
 
           <motion.h1

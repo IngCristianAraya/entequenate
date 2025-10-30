@@ -14,7 +14,7 @@ const products = [
   },
   {
     emoji: '🥟',
-    name: 'Tequeños Especiales',
+    name: 'Empanadas',
     description: 'Combinaciones únicas: queso con guayaba, chocolate, o carne mechada. Innovación en cada bocado.',
     color: 'from-orange-400 to-red-500',
   },

@@ -38,14 +38,13 @@ export default function Navbar() {
             className="flex items-center space-x-2"
           >
             <Image
-              src="/logo/logo.png"
+              src="/logo/logohorizontal.png"
               alt="Entequeñate logo"
-              width={40}
-              height={40}
+              width={150}
+              height={56}
               priority
               className="object-contain"
             />
-            <span className="text-2xl font-bold text-red-800">Entequeñate</span>
           </motion.div>
 
           <div className="hidden md:flex items-center space-x-8">
