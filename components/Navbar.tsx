@@ -62,7 +62,7 @@ export default function Navbar() {
               </motion.a>
             ))}
             <motion.a
-              href="https://wa.me/51945152916"
+              href="https://wa.me/51914308697"
               target="_blank"
               rel="noopener noreferrer"
               initial={{ opacity: 0, scale: 0.8 }}
@@ -103,7 +103,7 @@ export default function Navbar() {
                 </a>
               ))}
               <a
-                href="https://wa.me/51945152916"
+                href="https://wa.me/51914308697"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block bg-gradient-to-r from-amber-500 to-red-600 text-white text-center px-6 py-3 rounded-full font-semibold hover:shadow-xl transition-all"

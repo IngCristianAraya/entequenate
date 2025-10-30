@@ -69,7 +69,7 @@ export default function Hero() {
             className="flex flex-col sm:flex-row gap-4 justify-center items-center"
           >
             <a
-              href="https://wa.me/51945152916"
+              href="https://wa.me/51914308697"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative inline-flex items-center gap-3 bg-gradient-to-r from-green-500 to-green-600 text-white px-8 py-4 rounded-full text-lg font-bold shadow-2xl hover:shadow-green-500/50 hover:scale-110 transition-all duration-300"

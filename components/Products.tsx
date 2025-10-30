@@ -71,7 +71,7 @@ function ProductCard({ product, index }: { product: typeof products[0]; index: n
         <p className="text-gray-600 mb-6 leading-relaxed">{product.description}</p>
 
         <a
-          href="https://wa.me/51945152916"
+          href="https://wa.me/51914308697"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 bg-gradient-to-r from-red-600 to-red-700 text-white px-6 py-3 rounded-full font-semibold hover:scale-105 hover:shadow-lg transition-all duration-300"
